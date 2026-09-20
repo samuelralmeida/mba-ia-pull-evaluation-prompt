@@ -40,7 +40,6 @@ https://smith.langchain.com/prompts/bug_to_user_story_v2/2e7a3386?organizationId
 **Dashboard do projeto no LangSmith (dataset + execuções + tracing):**
 https://smith.langchain.com/projects/bug-to-user-story-optimization
 
-> ⚠️ O LangSmith não permite tornar um projeto/dataset inteiro público com um único link — o compartilhamento público funciona por **trace individual** (menu ⋮ → Share, na tela de detalhes do trace). O link do projeto acima requer login na sua conta.
 
 **Traces individuais compartilhados publicamente (evidência de tracing detalhado, ≥ 3 exemplos):**
 
